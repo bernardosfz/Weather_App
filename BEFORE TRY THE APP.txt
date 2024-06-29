@@ -1,2 +1,0 @@
-paste this in first line on scripts.js 
-const apiKey = "9adade0305792148d33673ee01b52099";
